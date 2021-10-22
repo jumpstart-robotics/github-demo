@@ -44,6 +44,3 @@ iv) project boards
 	a) NOTE: School email may give extra features for free
 	b) Recommendation: use team email address and account that is connected to your FIRST team, not you as an individual
 	c) Create public repository 
-
-
-
