@@ -1,31 +1,55 @@
 ---
 marp: true
-theme: uncover
-_class: invert
+paginate: true
+footer: https://github.com/jumpstart-robotics/github-demo/
 ---
 
-# FIRST Robotics Competition Jumpstart
+# Why and How to Use a Code Repository
 
 Hosted by Medtronic 11/4/2021
 
+Jamie Rowland
+Nathan Ahlstrom
+
+![bg 50% right](slido.jpg)
+
+<!---
+introduce ourselves
+tell everyone to join slido
+--->
+
 ---
 
-# Benefits of GitHub for FIRST Teams
+# Join Slido
+* Use your firstname and team number 
+* Point your phone camera at the QR code here
 
-1) Why use github.com?
-i) source code control
-ii) issue tracking
-iii) documentation wiki
-iv) project boards
+![bg 50% right](slido.jpg)
+
+<!---
+paste into chat: 
+https://app.sli.do/event/grdzex9l
+
+prize at the end for the quiz winner
+--->
 
 ---
 
-# Source Code Control
+# What is a code repository?
+* a software tool to collaboratively develop and maintain code
 
-1) code backup
-2) revision history
-3) collaboration/visibility to team
-4) sharing across computers
+---
+
+<!--- # Benefits of GitHub for FIRST Teams --->
+# Why use github.com?
+1) source code control
+	* code backup
+	* revision history
+	* collaboration/visibility to team
+	* sharing across computers
+2) issue tracking
+3) documentation wiki
+4) project boards
 
 ---
 
@@ -40,10 +64,28 @@ iv) project boards
 
 # Steps to get started with github
 
-1) sign up for account at [github.com](https://github.com) with Team account **AFRC-TeamNumber-TeamName**
-	a) NOTE: School email may give extra features for free
-	b) Recommendation: use team email address and account that is connected to your FIRST team, not you as an individual
-	c) Create public repository 
+1) sign up for account at [github.com](https://github.com) with Team account **FRC-TeamNumber-TeamName**
+	- NOTE: School email may give extra features for free
+	- Recommendation: use team email address and account that is connected to your FIRST team, not you as an individual
 
+---
 
+2) Create public repository
+	* Share repository URL and name with Team members
+
+3) Students signup for individual github accounts and star, watch, and fork the repository
+4) Team account adds student members as collaborators on the github account
+	* For wiki and project board access
+	* Students accept invitation
+
+5) Install [git-scm](https://git-scm.org/) tools on local computer
+
+---
+
+# Live Demo 
+* Manage Access
+* Fork
+* Pull Request / Merge
+* Issue Tracking
+* Project Board
 
