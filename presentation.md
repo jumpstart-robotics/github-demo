@@ -88,4 +88,3 @@ prize at the end for the quiz winner
 * Pull Request / Merge
 * Issue Tracking
 * Project Board
-

@@ -1,7 +1,6 @@
 # github-demo
 Demo of github for jumpstart robotics presentation
 
-
 **Installation**
 
 1) install [Visual Studio Code](https://code.visualstudio.com/Download) (free) from Microsoft
