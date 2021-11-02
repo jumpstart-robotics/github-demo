@@ -94,15 +94,17 @@ quiz section #2
 
 # Live Demo 
 * Overview of repo
-* Manage Access
 * Fork
 * Code change / Commit
 * Pull Request / Merge
-* Issue Tracking
-* Project Board
+* Manage Access
 
 ---
 
 # Additional Resources
 
 [FRC git getting started](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
+
+---
+
+# Contributors
