@@ -31,6 +31,8 @@ paste into chat:
 https://app.sli.do/event/grdzex9l
 
 prize at the end for the quiz winner
+
+slido poll: does your team use a code repository?
 --->
 
 ---
@@ -51,6 +53,10 @@ prize at the end for the quiz winner
 3) documentation wiki
 4) project boards
 
+<!---
+	slido: quiz section #1
+--->
+
 ---
 
 # Other Capabilities
@@ -59,6 +65,10 @@ prize at the end for the quiz winner
 * Use wiki to document team efforts, robot documentation, and team roles
 * Issue tracking if you notice something broken, can track bugs
 * Free webhosting for team marketing site possible (this is a big topic - can't cover here)
+
+<!---
+quiz section #2
+--->
 
 ---
 
@@ -83,8 +93,16 @@ prize at the end for the quiz winner
 ---
 
 # Live Demo 
+* Overview of repo
 * Manage Access
 * Fork
+* Code change / Commit
 * Pull Request / Merge
 * Issue Tracking
 * Project Board
+
+---
+
+# Additional Resources
+
+[FRC git getting started](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
