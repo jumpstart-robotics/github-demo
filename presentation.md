@@ -100,3 +100,9 @@ quiz section #2
 * Pull Request / Merge
 * Issue Tracking
 * Project Board
+
+---
+
+# Additional Resources
+
+[FRC git getting started](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
