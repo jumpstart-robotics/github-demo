@@ -4,6 +4,20 @@ paginate: true
 footer: https://github.com/jumpstart-robotics/github-demo/
 ---
 
+# Join Slido
+
+* Join from computer or mobile
+* Use your first name + team number (eg: Jamie 2525)
+
+![bg 50% right](slido.jpg)
+
+<!--
+Presentation Notes:
+ * [Paste into chat: https://app.sli.do/event/grdzex9l]
+ * Prize for top score on the quiz
+-->
+---
+
 # Why and How to Use a Code Repository
 
 Hosted by Medtronic 11/4/2021
@@ -13,89 +27,112 @@ Nathan Ahlstrom
 
 ![bg 50% right](slido.jpg)
 
-<!---
-introduce ourselves
-tell everyone to join slido
---->
-
+<!--
+Presentation Notes:
+ * Introduce presenters and presentation topic
+ * Explain how presentation was created / where to find it
+ * Prize opportunity #2
+ * Take note of questions to address at the end
+Transition: 
+ * Slido Poll
+-->
 ---
 
-# Join Slido
-* Use your firstname and team number 
-* Point your phone camera at the QR code here
+# What is a **Code Repository**?
 
-![bg 50% right](slido.jpg)
+* Software tool to develop and maintain code
+* Coding language agnostic
+* Individuals or teams
+* Public or private code
 
-<!---
-paste into chat: 
-https://app.sli.do/event/grdzex9l
-
-prize at the end for the quiz winner
-
-slido poll: does your team use a code repository?
---->
-
+<!--
+Presentation Notes:
+ * Many software options exist (GitHub, Gitlab, Bitbucket, SourceForge)
+ * Can mix different document types together
+ * Works well for small teams like FRC, or huge teams
+ * Public code can be licensed as open source for others to use, distribute, modify
+-->
 ---
 
-# What is a code repository?
-* a software tool to collaboratively develop and maintain code
+# Why Use a Code Repository?
 
+* Source code control
+	* Code backup/revision history
+	* Seamless team collaboration
+	* Access from multiple devices
+* Documentation
+* Sharing/licensing
+* Portfolio/resume building
+
+<!--
+Presentation Notes: 
+ * Code backup FRC competition anecdote
+ * Work from home computer and school computer
+Transition:
+ * Slido quiz questions #1-3
+-->
 ---
 
-<!--- # Benefits of GitHub for FIRST Teams --->
-# Why use github.com?
-1) source code control
-	* code backup
-	* revision history
-	* collaboration/visibility to team
-	* sharing across computers
-2) issue tracking
-3) documentation wiki
-4) project boards
+# Why Use GitHub?
 
-<!---
-	slido: quiz section #1
---->
+* Most popular source code management (SCM) software
+* Easy to learn/use
+* Integrates seamlessly with Windows/Mac/Linux
+* Mostly free*
+* Tons of features beyond code repository
 
+<!--
+Presentation Notes: 
+ * Student discounts:
+	https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/about-github-education-for-students
+
+	If you're a member of a FIRST robotics club, your mentor can apply for an educator discount so your team can collaborate using GitHub Team, which allows unlimited users and private repositories, for free. For more information, see "Apply for an educator or researcher discount."
+-->
 ---
 
-# Other Capabilities
+# Other Capabilities of GitHub
 
 * Use project boards to plan activities
-* Use wiki to document team efforts, robot documentation, and team roles
+* Use wikis to document team efforts, robot documentation, and team roles
 * Issue tracking if you notice something broken, can track bugs
-* Free webhosting for team marketing site possible (this is a big topic - can't cover here)
+* Automated testing and workflows (advanced)
+* Free web hosting for team marketing site possible (for another presentation)
 
-<!---
-quiz section #2
---->
+<!--
+Transition:
+ * Slido quiz questions #4-6
+-->
+---
+
+# Getting Started with GitHub
+
+1) Sign up for account at [github.com](https://github.com)
+	* Have coach/mentor apply for educator discount for free "GitHub Team" plan
+	* Recommend using team email address to sign up
+	* Include "FRC", your team number, and team name in GitHub account name
+1) Create new public repository each year
+	* Put year and robot name or "robot" in the repo name
+	* Share repository URL with team members
+1) Students sign-up for individual github accounts to star, watch, fork the repository
 
 ---
 
-# Steps to get started with github
+# Getting Started with GitHub Continued...
 
-1) sign up for account at [github.com](https://github.com) with Team account **FRC-TeamNumber-TeamName**
-	- NOTE: School email may give extra features for free
-	- Recommendation: use team email address and account that is connected to your FIRST team, not you as an individual
+4) Team account adds student accounts as collaborators on the repo
+	* Grants access to wiki and project board access
+	* Grants ability to merge pull requests
 
----
-
-2) Create public repository
-	* Share repository URL and name with Team members
-
-3) Students signup for individual github accounts and star, watch, and fork the repository
-4) Team account adds student members as collaborators on the github account
-	* For wiki and project board access
-	* Students accept invitation
-
-5) Install [git-scm](https://git-scm.org/) tools on local computer
+1) Install [git-scm](https://git-scm.org/) tools on local computer
+	* Enables command line interface for Git
 
 ---
 
-# Live Demo 
-* Overview of repo
+# Live Demos
+
+* Overview of Repo in GitHub
 * Fork
-* Code change / Commit
+* Code Change / Commit
 * Pull Request / Merge
 * Manage Access
 
@@ -103,8 +140,13 @@ quiz section #2
 
 # Additional Resources
 
-[FRC git getting started](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
+* [FRC Git Version Control Introduction](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
+* [About GitHub Education for students](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/about-github-education-for-students)
 
 ---
 
 # Contributors
+
+* Jamie Rowland
+* Nathan Ahlstrom
+* [Your name here]
