@@ -1,5 +1,5 @@
 # github-demo
-Demo of github for jumpstart robotics presentation
+Demo of github for jumpstart robotics presentation.
 
 **Installation**
 
