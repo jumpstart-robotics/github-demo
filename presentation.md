@@ -93,6 +93,7 @@ quiz section #2
 ---
 
 # Live Demo 
+* Overview of repo
 * Manage Access
 * Fork
 * Pull Request / Merge
