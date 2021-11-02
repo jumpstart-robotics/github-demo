@@ -96,6 +96,7 @@ quiz section #2
 * Overview of repo
 * Manage Access
 * Fork
+* Code change / Commit
 * Pull Request / Merge
 * Issue Tracking
 * Project Board
