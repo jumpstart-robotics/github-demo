@@ -8,3 +8,8 @@ Demo of github for jumpstart robotics presentation.
 3) Clone this repository (or fork) into Visual Studio Code
 
 This presentation uses [MARP](https://marp.app) the Markdown Presentation Ecosystem.
+
+# presented by
+
+* Nathan
+* Jamie
