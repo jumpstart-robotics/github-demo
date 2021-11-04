@@ -142,7 +142,7 @@ Transition:
 
 * [FRC Git Version Control Introduction](https://docs.wpilib.org/en/stable/docs/software/basic-programming/git-getting-started.html)
 * [About GitHub Education for students](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/about-github-education-for-students)
-
+* [Using LabView with Git](https://github.com/joerg/LabViewGitEnv) (have not tested this)
 ---
 
 # Contributors
